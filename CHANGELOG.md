@@ -1,3 +1,8 @@
+## 2.0.2
+- Updated kotlin version
+- Updated gradle version
+- AGP enabled
+
 ## 2.0.1
 - Updated kotlin version
 
